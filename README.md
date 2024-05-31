@@ -1,1 +1,2 @@
 # reactTypeScript
+# Clear the project
