@@ -38,6 +38,7 @@ const Lesson10 = () => {
       useEffect(()=>{getCatFact()}, [])
 
 
+      
   return (
     <Lessons10Component>
       <Card facts={catFact} />
